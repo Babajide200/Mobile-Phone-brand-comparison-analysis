@@ -1,0 +1,5 @@
+1. Check mobile features and price list 
+2. Find out the price of 5 most expensive phones
+3. Find out the price of 5 most cheapest phones
+4. List of top 5 samsung phones with price and all features 
+5. Must have android phone list then top 5 high price android phones
